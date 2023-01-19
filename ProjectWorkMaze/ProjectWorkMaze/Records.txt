@@ -1,0 +1,16 @@
+!!!All Records!!!
+Sam:0
+Elnur:1000
+Elnur:700
+Elnur2:0
+Nicat:0
+test7:300
+elnur:300
+Elnur:0
+Elnur:0
+Elnur:0
+ElnurRecord:1400
+Elnur:0
+ElnurTest1:0
+15:0
+Elnur777:300

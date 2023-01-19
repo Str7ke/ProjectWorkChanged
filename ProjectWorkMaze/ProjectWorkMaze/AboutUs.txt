@@ -1,0 +1,96 @@
+					-------------------------------------------------- -------------------------------------------------- ----------------------
+
+                                                                       Hello everyone, if you are reading this text, then I have finished
+                                                                       your project. in this project you
+                                                                       you will see all my acquired knowledge in courses and in
+                                                                         the Internet (because it was good to listen to the lesson)).
+                                                                       
+								       Here is a project called "Infinity Games", in
+                                                                       which has three games so far.
+                                                                       It was originally intended to make a labyrinth, everything was
+                                                                       ready to make it except for one,
+                                                                       except for the driving character (((,
+                                                                       because it was difficult to make it given the fact that
+                                                                       me the card itself was taken from the internet,
+                                                                       it took a little less than two weeks to create the project,
+                                                                       of these two weeks, a week and a half is gone
+                                                                       only to the labyrinth (which in the end I did not finish),
+                                                                       and a couple of days to create three games "RPS", "TicTac", "Boom".
+                                                                       
+                                                                       
+                                                                       
+                                                                       RPS - the classic rock, paper and scissors computer game
+                                                                       
+                                                                       Game play :
+                                                                       
+                                                                       1.Choose between Rock, Paper, Scissors
+                                                                       
+                                                                       2. See your result.
+                                          
+                                          
+                                          --------------------------------------------------------------------------------------------------------------------------
+                                          
+                                                                       TicTac is a tic-tac-toe game, but not with a computer, but with
+                                                                       the second player, this means that you can play with
+                                                                       friend. In this game there is no interference, because in any
+                                                                       direction winnings are considered winnings
+                                                                       (not like some of the codes I looked up on the internet)
+                                                                       
+                                                                       Gameplay:
+                                                                       
+                                                                       1.Name of the first player
+                                                                       
+                                                                       2.Name of the second player
+                                                                       
+                                                                       3.Choose in which fields to put X
+                                                                       
+                                                                       4.Choose in which fields to put Y
+                                                                       
+                                                                       5.Enjoy the game
+                                          
+                                          
+                                          
+                                          -------------------------------------------------------------------------------------------------------------------------- 
+                                          
+                                          
+                                          
+                                                                       BOOM is a slightly complicated game, in common people it is called "Minesweeper".
+                                                                       In this game you need to find the bombs
+                                                                       hidden all over the map, in this you can have a number that
+                                                                       hidden in this very field, and there are also
+                                                                       empty fields by clicking enter on them you will open 10 more
+                                                                       free fields or fields with numbers,
+                                                                       but not with Mina.Hitting us mine you automatically
+                                                                       lose. To win you need to find
+                                                                       mines by putting a flag on them using spase.
+                                                                       
+                                                                       Gameplay:
+                                                                       
+                                                                       1.Enter the player's name
+                                                                       
+                                                                       2. Enter the number of mines on the map
+                                                                       
+                                                                       3. Look for these mines
+                                                                       
+                                                                       4. Have a good game, don't explode
+                                          
+                                          
+                                          
+                                          --------------------------------------------------------------------------------------------------------------------------
+
+                                          
+                                          
+                                          
+                                                                       This is not the end of the whole project, because on the main screen
+                                                                       there is a button like "Records" where you can
+                                                                       see all the records that were created in "BOOM" and even
+                                                                       export them to a txt file (although you do it right away).
+                                          
+                                          
+                                          
+                                           --------------------------------------------------------------------------------------------------------------------------
+                                          
+                                          
+                                                                       That's all I hope you liked my project,
+                                                                       in further skills I plan to make a full-fledged game and not in the console.
+                                                                       Thank you for your attention .
